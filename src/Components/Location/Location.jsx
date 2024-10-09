@@ -28,7 +28,7 @@ const Location = () => {
           >
             <h3 className="location_title">Joylashgan o`rni</h3>
             <p className="location_text">
-              Tumor turar joy majmuasi strategik jihatdan eng qulay joyda, Samarqand shahri markazida joylashgan. Shahar infratuzilmasining barcha asosiy obyektlari, ish joylari, ta’lim va sog‘liqni saqlash muassasalariga yaqinligi hayotingizni yanada osonlashtiradi.</p>
+              Tumor  majmuasi strategik jihatdan eng qulay joyda, Samarqand shahri markazida joylashgan. Shahar infratuzilmasining barcha asosiy obyektlari, ish joylari, ta’lim va sog‘liqni saqlash muassasalariga yaqinligi hayotingizni yanada osonlashtiradi.</p>
             <p className="location_text">
               Bu yerda kundalik ehtiyojlaringizni qondirish uchun barcha zarur sharoitlar mavjud, shu bilan birga uzoq yo‘llarda vaqt yo‘qotish yoki tirbandliklardan xavotirlanmasligingiz mumkin.</p>
           </div>
@@ -38,7 +38,7 @@ const Location = () => {
             data-aos-offset="-200"
           >
             <p className="location_text2">
-            Yaqin atrofda joylashgan yashil bog‘lar, sport majmualari va ko‘ngilochar maskanlar Tumor turar joy majmuasining aholisiga dam olish va maroqli vaqt o‘tkazish uchun ajoyib imkoniyatlarni taqdim etadi. Bu joylar nafaqat farovonlikni oshiradi, balki turmush tarziga ham rang-baranglik kiritadi.
+            Yaqin atrofda joylashgan yashil bog‘lar, sport majmualari va ko‘ngilochar maskanlar Tumor majmuasining aholisiga dam olish va maroqli vaqt o‘tkazish uchun ajoyib imkoniyatlarni taqdim etadi. Bu joylar nafaqat farovonlikni oshiradi, balki turmush tarziga ham rang-baranglik kiritadi.
             </p>
           </div>
         </div>
