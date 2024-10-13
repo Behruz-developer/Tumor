@@ -1,12 +1,12 @@
 import { useState } from "react";
-import houses1 from "../../assets/images/house1.jpg";
-import houses11 from "../../assets/images/house11.jpg";
-import houses12 from "../../assets/images/house12.jpg";
-import houses2 from "../../assets/images/house2.jpg";
-import houses21 from "../../assets/images/house21.jpg";
-import houses22 from "../../assets/images/house22.jpg";
-import houses3 from "../../assets/images/house3.jpg";
-import houses31 from "../../assets/images/house31.jpg";
+import houses1 from "../../assets/images/houses1.jpg";
+import houses11 from "../../assets/images/houses11.jpg";
+import houses12 from "../../assets/images/houses12.jpg";
+import houses2 from "../../assets/images/houses2.jpg";
+import houses21 from "../../assets/images/houses21.jpg";
+import houses22 from "../../assets/images/houses22.jpg";
+import houses3 from "../../assets/images/houses3.jpg";
+import houses31 from "../../assets/images/houses31.jpg";
 // import houses32 from "../../assets/images/house32.jpg";
 
 
