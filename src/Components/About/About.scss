@@ -3,9 +3,8 @@
     overflow: hidden;
     padding-bottom: 40px;
 
-    @include media (600px) {
+    @include media (650px) {
         padding-bottom: 80px;
-
     }
 
     @include media (400px) {
@@ -111,6 +110,7 @@
         @include media (800px) {
             row-gap: 40px;
         }
+
         @include media (600px) {
             row-gap: 30px;
         }
@@ -132,6 +132,7 @@
             column-gap: 26px;
 
         }
+
         @include media(1000px) {
             width: 30%;
             font-size: 18px;
@@ -143,12 +144,15 @@
             width: 45%;
             font-size: 18px;
             line-height: 24px;
+            column-gap: 10px;
+
         }
 
         @include media(650px) {
             width: 47.5%;
             font-size: 14px;
             line-height: 18px;
+
         }
 
         &_img {
@@ -171,13 +175,16 @@
                 fill: var(--brwn2);
                 stroke-width: 0px;
             }
+
             &_color2 {
                 fill: var(--brwn1);
             }
         }
+
         &_card {
             width: 80px;
             height: 80px;
+
             @include media(1400px) {
                 width: 54px;
                 height: 54px;
@@ -343,7 +350,8 @@
             font-weight: 600;
             line-height: 32px;
             text-align: left;
-color: var(--brwn1);
+            color: var(--brwn1);
+
             @include media(800px) {
                 font-size: 14px;
                 line-height: 20px;

@@ -52,7 +52,7 @@ const Upcoming = ({ images }) => {
                           className="slidet_text"
                           key={`navimage${index + 1}`}
                         >
-                          Zamonaviy va shinam hayotni istaganlar uchun.
+                          Zamonaviy va shinam hayotni istaganlar uchun ajoyib tanlov
                         </h3>
                         <p className="slidet_text2">
                           Tumor — TXT Group kompaniyasi tomonidan Samarqand shahrida qurilayotgan turar-joy majmuasidir.
